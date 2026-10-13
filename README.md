@@ -1,5 +1,7 @@
 # shawn-mods
 
+The code is benign. It makes no network or process calls and only reads session info.
+
 Two Claude Code mods.
 
 - **usage-bar**: remaining usage % (5-hour and weekly) with reset times and a green-to-red tick bar.
@@ -8,7 +10,6 @@ Two Claude Code mods.
 ## Install (inside a `claude` session)
 
 ```
-/plugin marketplace add <owner>/<repo>
 /plugin install usage-bar@shawn-mods
 /plugin install goal-meter@shawn-mods
 ```
