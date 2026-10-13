@@ -10,6 +10,7 @@ Two Claude Code mods.
 ## Install (inside a `claude` session)
 
 ```
+/plugin marketplace add shawnbotha/claude-mods
 /plugin install usage-bar@shawn-mods
 /plugin install goal-meter@shawn-mods
 ```
