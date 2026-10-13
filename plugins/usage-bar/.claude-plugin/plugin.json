@@ -1,0 +1,6 @@
+{
+  "name": "usage-bar",
+  "version": "0.1.0",
+  "description": "Remaining usage % (5-hour and weekly) with reset times and a green-to-red tick bar",
+  "types": "./types/index.d.ts"
+}

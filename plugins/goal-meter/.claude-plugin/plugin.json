@@ -1,0 +1,6 @@
+{
+  "name": "goal-meter",
+  "version": "0.1.0",
+  "description": "Goal/task progress bar with step timers and plan tracking",
+  "types": "./types/index.d.ts"
+}

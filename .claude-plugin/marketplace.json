@@ -1,0 +1,8 @@
+{
+  "name": "shawn-mods",
+  "owner": { "name": "Shawn Botha" },
+  "plugins": [
+    { "name": "usage-bar", "source": "./plugins/usage-bar", "description": "Remaining usage % (5-hour and weekly) with reset times and a green-to-red tick bar" },
+    { "name": "goal-meter", "source": "./plugins/goal-meter", "description": "Goal/task progress bar with step timers and plan tracking" }
+  ]
+}
