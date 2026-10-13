@@ -3,6 +3,7 @@
   "owner": { "name": "Shawn Botha" },
   "plugins": [
     { "name": "usage-bar", "source": "./plugins/usage-bar", "description": "Remaining usage % (5-hour and weekly) with reset times and a green-to-red tick bar" },
-    { "name": "goal-meter", "source": "./plugins/goal-meter", "description": "Goal/task progress bar with step timers and plan tracking" }
+    { "name": "goal-meter", "source": "./plugins/goal-meter", "description": "Goal/task progress bar with step timers and plan tracking" },
+    { "name": "plugin-switcher", "source": "./plugins/plugin-switcher", "description": "A small Mods button above the prompt that opens a menu with a slider switch for every plugin" }
   ]
 }

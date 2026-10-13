@@ -2,8 +2,9 @@
 
 The code is benign. It makes no network or process calls and only reads session info.
 
-Two Claude Code mods.
+Three Claude Code mods.
 
+- **plugin-switcher**: a small `⚙ Mods` button above the prompt that opens a menu with a slider switch for every plugin. The `⚙` inside the menu chooses which plugins are listed.
 - **usage-bar**: remaining usage % (5-hour and weekly) with reset times and a green-to-red tick bar.
 - **goal-meter**: goal/task progress bar with step timers and plan tracking. Commands: `/hide-commands`, `/goal-reset`.
 
@@ -11,6 +12,7 @@ Two Claude Code mods.
 
 ```
 /plugin marketplace add shawnbotha/claude-mods
+/plugin install plugin-switcher@shawn-mods
 /plugin install usage-bar@shawn-mods
 /plugin install goal-meter@shawn-mods
 ```

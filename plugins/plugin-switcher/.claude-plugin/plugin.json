@@ -1,0 +1,6 @@
+{
+  "name": "plugin-switcher",
+  "version": "0.1.0",
+  "description": "A small button at the bottom right, above the prompt, that opens a menu with a slider switch for every plugin.",
+  "types": "./types/index.d.ts"
+}
